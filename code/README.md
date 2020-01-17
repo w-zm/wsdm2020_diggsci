@@ -1,16 +1,15 @@
-### 队伍：xiong
+### Team：xiong
 
 1. xiong
 2. [wzm](https://github.com/w-zm)
-3. 徐尹翔
-4. 徐晓豪
-5. 刘永强
+3. Yinxiang Xu
+4. Xiaohao Xu
+5. Yongqiang Liu
 
-### 说明
+### Description
 
-包含两个文件code1 & code2，其中：
+Two folders code1 & code2：
 
-1. 模型的训练，预测以及最终的结果融合在code1下；
-2. 使用到的训练数据也是有code1下的代码生成；
-3. 使用到的测试数据是由code2下的代码生成。
-
+1. The training, prediction and final results of the model are integrated under code1；
+2. The code to generate the training set is in the folder code1；
+3. The code to generate the test set is in the folder code1。
